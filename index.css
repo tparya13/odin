@@ -1,0 +1,57 @@
+.one h1{
+    text-align: center;
+    padding-top: 110px;
+    font-size: 3.75rem;
+    line-height: 1;
+    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+    letter-spacing: -.05em;
+    font-weight: 500;
+
+
+}
+
+.one span{
+    color: rgb(169 121 43)
+}
+.two h1{
+    text-align: center;
+    font-size: 3.75rem;
+    line-height: 1;
+    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+    letter-spacing: -.05em;
+    font-weight: 500;
+
+
+}
+.three h1{
+    text-align: center;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    color: rgb(42, 39, 39)
+
+}
+.six h1{
+    text-align: center;
+    font-size: 3.75rem;
+    line-height: 1;
+    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+    letter-spacing: -.05rem;
+    font-weight: 500;
+}
+.seven{
+    color:rgb(40, 38, 38)
+    width: 15rem;
+}
+.ten{
+    color: rgb(40, 38, 38)
+    text-align: center;
+    font-size: 1.875rem;
+    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.box{
+    width: 5rem;
+    height: 5rem;
+    margin: auto;
+    background-color: white;
+}
